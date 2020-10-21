@@ -135,4 +135,4 @@ You may either deploy changes to your search-engine immediately or leave the sys
 
 ## Summary
 ### Using the Fingerprint Button and Pre-Defined Filters
-This function allows you to confirm highly similar clusters identified by search|hub.
+This function allows you to confirm highly similar clusters identified by search|hub. 
